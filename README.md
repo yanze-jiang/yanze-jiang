@@ -2,9 +2,10 @@
 
 Welcome to my GitHub! 🚀  
 I love exploring AI and Data Science.
-Currently a third year students from CUHK and CUHK(SZ).
-Base Hong Kong and Shenzhen.
-Wuhan born and raised.
+
+- Currently a third year students from CUHK and CUHK(SZ).
+- Base Hong Kong and Shenzhen.
+- Wuhan born and raised.
 
 ---
 
