@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yanze JIANG
 
-<!--
-**yanze-jiang/yanze-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🚀  
+I love exploring AI, Web3, and building cool projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🔭 Currently working on AI reasoning and multi-modal projects
+- 🌱 Learning advanced LLM fine-tuning techniques
+- 👯 Open to collaborations on AI projects
+- 💬 Ask me about Python, ML, and blockchain 
+
+---
+
+## 📫 Contact
+- Email: `robertyanzejiang@outlook.com`
+
+
+---
+
+✨ Thanks for visiting my GitHub!
