@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Yanze JIANG
+# 🧧 你好，我是萝卜大哥
 
 Welcome to my GitHub! 🚀  
 I love exploring AI and Data Science.
@@ -11,7 +12,8 @@ I love exploring AI and Data Science.
 
 ## 💻 About Me
 - 🔭 Currently working on AI reasoning and multi-modal projects
-- 🌱 Learning advanced LLM fine-tuning techniques
+- 🌱 Tried 3 different majors in undergrad, including Quant, CS and Data Science
+- 🦞 Master of openclaw agent “油焖大虾”
 - 👯 Open to collaborations on AI projects
 - 💬 Ask me about everything
 
