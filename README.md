@@ -14,6 +14,7 @@ I love exploring AI and Data Science.
 - 🔭 Currently working on AI reasoning and multi-modal projects
 - 🌱 Tried 3 different majors in undergrad, including Quant, CS and Data Science
 - 🦞 Master of openclaw agent “油焖大虾”
+- 🐶 Lover of puppies 
 - 👯 Open to collaborations on AI projects
 - 💬 Ask me about everything
 
