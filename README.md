@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Yanze JIANG
-# 🧧 你好，我是萝卜大哥
+# 👋 Hi, I'm Robert Yanze Jiang
 
 Welcome to my GitHub! 🚀  
 I love exploring AI and Data Science.
