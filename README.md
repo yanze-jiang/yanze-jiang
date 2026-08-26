@@ -3,7 +3,7 @@
 Welcome to my GitHub! 🚀  
 I love exploring AI and Data Science.
 
-- Currently a third year students from CUHK and CUHK(SZ).
+- Currently a fourth year students from CUHK and CUHK(SZ).
 - Base Hong Kong and Shenzhen.
 - Wuhan born and raised.
 
@@ -11,7 +11,7 @@ I love exploring AI and Data Science.
 
 ## 💻 About Me
 - 🔭 Currently working on AI reasoning and multi-modal projects
-- 🌱 Tried 3 different majors in undergrad, including Quant, CS and Data Science
+- 🌱 Tried 3 different majors in undergrad, including Quant, CS and Data Analytics
 - 🦞 Master of openclaw agent “油焖大虾”
 - 🐶 Lover of puppies 
 - 👯 Open to collaborations on AI projects
